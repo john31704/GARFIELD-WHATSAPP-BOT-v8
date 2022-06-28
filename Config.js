@@ -10,32 +10,32 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01',  // Do not change
 }
-global.owner = ["+94711502119"] //👈  Enter Your number)
-global.premium = ["+94711502119"] // 👈  Enter Your number)
-global.emoji01 = ["🐼"] // 👈 Enter your Emoji 
-global.emoji02 = ["🦋"] //👈 Enter your Emoji
-global.ownernomer = [+94711502119] //👈 Enter Your number
-global.ownername = ["ZENOI"] //👈 Enter Your name
-global.botname = ["ＧＡＲＤＩＥＬＤ ＢＯＴ ｖ8.2"] //👈 Enter Your Bot name
-global.footer = ["Coded by Tharindu Liyanage"] //👈 Enter Your Name
+global.owner = ["+351911155957"] //👈  Enter Your number)
+global.premium = ["+351911155957"] // 👈  Enter Your number)
+global.emoji01 = ["Σ"] // 👈 Enter your Emoji 
+global.emoji02 = ["🔱"] //👈 Enter your Emoji
+global.ownernomer = [+351911155957] //👈 Enter Your number
+global.ownername = ["ROCHA"] //👈 Enter Your name
+global.botname = ["SIGMA BOT"] //👈 Enter Your Bot name
+global.footer = ["Rocha"] //👈 Enter Your Name
 global.ig = ["https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8"]
-global.region = ["SriLanka"] // 👈 Enter Your country
+global.region = ["Portugal"] // 👈 Enter Your country
 global.sc = ["https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8"]
-global.myweb = ["https://www.facebook.com/garfieldbots/"] // 👈 Enter your Social media link to follow now button
+global.myweb = ["https://www.instagram.com/__joaosrocha__/"] // 👈 Enter your Social media link to follow now button
 global.packname = ["GARFIELD-BOTv8"]  // 👈 You Can change this your choice 
 global.author = ["NOIZE DEVELOPMENT"] // 👈 You Can change this your choice 
 global.sessionName = 'session'  // 👈 You Can change this your choice 
 global.prefa = ['','!','.']  // 👈 You Can change this your choice 
 global.sp = ['ZENOI']  // 👈 You Can change this your choice 
 global.mess = {
-    success: ["Done 🐼"], //👈 Use these in your language of choice
-    admin: ["This Feature Is Only For Admin!"], // 👈 Use these in your language of choice
+    success: ["Done 🔱"], //👈 Use these in your language of choice
+    admin: ["So para SIGMAS!"], // 👈 Use these in your language of choice
     botAdmin: ["Bot Must Be Admin First!"], // 👈 Use these in your language of choice
-    owner: ["This Feature Is Only For Owner!"], // 👈 Use these in your language of choice
+    owner: ["This Feature Is Only For PAPI!"], // 👈 Use these in your language of choice
     group: ["Feature Used Only For Groups!"], //👈 Use these in your language of choice
     private: ["Features Used Only For Private Chat!"], // 👈 Use these in your language of choice
-    bot: ["This Feature Is Only For Bot"], //👈 Use these in your language of choice
-    wait: ["```Please Wait 🐼```"], // 👈 Use these in your language of choice
+    bot: ["This Feature Is Only For SIGMAS BOT"], //👈 Use these in your language of choice
+    wait: ["```Espera dred```"], // 👈 Use these in your language of choice
     error: ["Error! Maybe Api Key Is Expired 🐼!"], // 👈 Use these in your language of choice
     endLimit: ["Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours"],
 }
